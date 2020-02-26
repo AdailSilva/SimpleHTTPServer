@@ -1,0 +1,1 @@
+# O SimpleHTTPServer é um módulo python que permite criar instantaneamente um servidor web ou servir seus arquivos em um piscar de olhos. A principal vantagem do SimpleHTTPServer do python é que você não precisa instalar nada, pois o intérprete python está instalado.
